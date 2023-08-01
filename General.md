@@ -55,8 +55,8 @@ Dostępne Akcje:
 Każdy dobry system potrzebuje przedmiotów i waluty. Tutaj sprawa jest prosta. Jest jedna waluta: **Złoto**, która może być zamieniona na wszystkie potrzebne przedmioty.
 Przykładowe ceny:
 - Kufel piwa - 1
-- Ciepły posiłek - 3
-- Noc w karczmie - 30
+- Ciepły posiłek - 2
+- Noc w karczmie - 32
 Oczywiście to tylko przykład, zachęcam do rozszerzania listy
 #### Bronie
 Broń determinuje ile punktów zdrowia należy odebrać przeciwnikowi po udanym ciosie
